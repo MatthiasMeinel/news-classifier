@@ -62,3 +62,17 @@ O modelo apresentou:
 ---
 
 ## 📁 Estrutura do Projeto
+
+Project/
+│
+├── api/ # API FastAPI
+├── src/ # Funções e lógica do modelo
+├── notebook/ # EDA e treinamento
+├── data/ # (não incluído no repo)
+├── models/ # (não incluído no repo)
+
+
+
+
+
+
