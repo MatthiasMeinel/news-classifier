@@ -61,6 +61,26 @@ O modelo apresentou:
 
 ---
 
+## 📦 Dataset
+
+O dataset não está incluído neste repositório devido às limitações de tamanho do GitHub.
+
+Para reproduzir os resultados, é necessário disponibilizar o arquivo de dados na pasta `data/`.
+
+O arquivo usado para o treinamento do modelo foi esse: https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol
+
+---
+
+## 🤖 Modelo
+
+O modelo treinado não foi versionado devido ao seu tamanho. 
+
+Ele pode ser facilmente reproduzido executando o notebook de treinamento presente em `notebook'
+
+
+
+
+
 ## 📁 Estrutura do Projeto
 
 Project/
